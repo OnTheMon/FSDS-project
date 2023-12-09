@@ -1,0 +1,4 @@
+listings_2020.csv filter=lfs diff=lfs merge=lfs -text
+listings_2021.csv filter=lfs diff=lfs merge=lfs -text
+listings_2022.csv filter=lfs diff=lfs merge=lfs -text
+listings_2023.csv filter=lfs diff=lfs merge=lfs -text
