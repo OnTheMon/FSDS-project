@@ -205,7 +205,7 @@ print(len(df))
 
 
 <p style="text-align: justify;">
-简单说两句
+通过四种类型房源的分布对比可得，Entire home apt和private room分布范围广且在伦敦市中心（特别是商业和旅游区）非常密集；Hotel room集中在市中心的旅游和商务区域、shared room的分布较为分散，这两种房源的密度显著低于前两种。说明私密性、完整性好的住房更符合市场需求。
 </p>
 
 ```{python}
@@ -247,15 +247,10 @@ plt.show()
 ```
 
 
-<p style="text-align: justify;">
-简单说两句
-</p>
-
-
 ### 6.2 Host type and number of listings
 
 <p style="text-align: justify;">
-简单说两句
+通过单一房东拥有房源数量的频数直方图可知，大量的房东只拥有少数房源，可能表明这部分房东是兼职或偶尔出租自己的空置房产；另一方面，也有少数房东控制了大量房源。这些可能是专业的短期租赁公司或投资者。通过比较Airbnb在伦敦各区域房源的均价可得，高需求区域（如伦敦市中心），Airbnb的价格普遍较高，而在边远或非商业旅游热点区域，价格可能更为合理。
 </p>
 
 ![Host type and number of listings](Host_type_and_number_of_listings.png)
@@ -311,11 +306,6 @@ plt.savefig(r'Host_type_and_number_of_listings.png', dpi=600)
 plt.show()
 
 ```
-
-
-<p style="text-align: justify;">
-简单说两句
-</p>
 
 
 ## 7. Drawing on your previous answers, and supporting your response with evidence (e.g. figures, maps, and statistical analysis/models), how *could* this data set be used to inform the regulation of Short-Term Lets (STL) in London? 
