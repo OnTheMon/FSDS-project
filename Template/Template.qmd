@@ -269,8 +269,6 @@ ax1.set_ylabel('Frequency')
 ax1.set_xlabel('Number of Hosts')  
 ax1.grid(axis='y', linestyle='--', alpha=0.7)
 
-
-
 # 第二个子图：伦敦各区平均房价
 # 连接数据计算均值
 joined = sjoin(df, London_borough, how='inner', predicate='within')
@@ -306,6 +304,12 @@ plt.savefig(r'Host_type_and_number_of_listings.png', dpi=600)
 plt.show()
 
 ```
+
+
+### Summary
+<p style="text-align: justify;">
+In summary, the distribution of listings: Entire home apt (completeness) and private room (privacy) show a trend of concentration in the city centre and hotspots, covering a wide range of areas, and adapting to the market demand; the average price of the area: at the same time, the high price of areas in London (especially in the city centre) with a dense number of Airbnb listings in the convenience of tenants' diversified needs at the same time as rewarding the landlord with a high income; the type of landlord: a large number of landlords only have a handful of listings, suggesting that Airbnb offers a relatively easy market for individual hosts to enter. A small number of landlords (specialised short-term rental companies or investors) control a large number of listings and occupy a large share of the market, making them susceptible to influencing the long-term rental market.
+</p>
 
 
 ## 7. Drawing on your previous answers, and supporting your response with evidence (e.g. figures, maps, and statistical analysis/models), how *could* this data set be used to inform the regulation of Short-Term Lets (STL) in London? 
