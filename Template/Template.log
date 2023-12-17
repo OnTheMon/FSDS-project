@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.19)  16 DEC 2023 21:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.19)  17 DEC 2023 02:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -40,12 +40,12 @@ File: scrsize11pt.clo 2023/07/07 v3.41 KOMA-Script font size class option (11pt)
 Package: typearea 2023/07/07 v3.41 KOMA-Script package (type area)
 \ta@bcor=\skip49
 \ta@div=\count181
-Package typearea Info: You've used standard option `a4paper'.
+Package typearea Info: You've used standard option `letterpaper'.
 (typearea)             This is correct!
-(typearea)             Internally I'm using `paper=a4'.
+(typearea)             Internally I'm using `paper=letter'.
 (typearea)             If you'd like to set the option with \KOMAoptions,
-(typearea)             you'd have to use `paper=a4' there
-(typearea)             instead of `a4paper', too.
+(typearea)             you'd have to use `paper=letter' there
+(typearea)             instead of `letterpaper', too.
 \ta@hblk=\skip50
 \ta@vblk=\skip51
 \ta@temp=\skip52
@@ -53,14 +53,14 @@ Package typearea Info: You've used standard option `a4paper'.
 Package typearea Info: These are the values describing the layout:
 (typearea)             DIV  = 11
 (typearea)             BCOR = 0.0pt
-(typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 434.55125pt
-(typearea)              DIV departure   = -10%
-(typearea)              \evensidemargin = 9.20834pt
-(typearea)              \oddsidemargin  = 9.20834pt
-(typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 623.00027pt
-(typearea)              \topmargin      = -32.84755pt
+(typearea)             \paperwidth      = 614.295pt
+(typearea)              \textwidth      = 446.76004pt
+(typearea)              DIV departure   = -14%
+(typearea)              \evensidemargin = 11.49748pt
+(typearea)              \oddsidemargin  = 11.49748pt
+(typearea)             \paperheight     = 794.96999pt
+(typearea)              \textheight     = 582.20026pt
+(typearea)              \topmargin      = -37.40001pt
 (typearea)              \headheight     = 17.0pt
 (typearea)              \headsep        = 20.40001pt
 (typearea)              \topskip        = 11.0pt
@@ -207,10 +207,10 @@ For immediate help type H <return>.
 l.78      \ExplLoaderFileDate{expl3.sty}}
                                          % 
 Here is how much of TeX's memory you used:
- 4431 strings out of 477146
- 91423 string characters out of 5809643
+ 4430 strings out of 477146
+ 91412 string characters out of 5809643
  1915671 words of memory out of 5000000
- 26098 multiletter control sequences out of 15000+600000
+ 26097 multiletter control sequences out of 15000+600000
  558077 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  108i,1n,107p,10903b,271s stack positions out of 10000i,1000n,20000p,200000b,200000s
